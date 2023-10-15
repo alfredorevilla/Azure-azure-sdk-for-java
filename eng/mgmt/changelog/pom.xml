@@ -13,8 +13,8 @@
     <site.url>https://azuresdkartifacts.blob.core.windows.net/azure-sdk-for-java</site.url>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <OLD_JAR></OLD_JAR>
-    <NEW_JAR></NEW_JAR>
+    <OLD_JAR/>
+    <NEW_JAR/>
   </properties>
   <scm>
     <url>https://github.com/Azure/azure-sdk-for-java</url>
@@ -63,7 +63,7 @@
     <dependency>
       <groupId>org.json</groupId>
       <artifactId>json</artifactId>
-      <version>20201115</version>
+      <version>20231013</version>
     </dependency>
   </dependencies>
   <build>
