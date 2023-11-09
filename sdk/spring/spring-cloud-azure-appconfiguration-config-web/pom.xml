@@ -16,15 +16,15 @@
 
 	<properties>
 		<codesnippet.skip>false</codesnippet.skip>
-		<javadocDoclet></javadocDoclet>
-		<javadocDocletOptions></javadocDocletOptions>
+		<javadocDoclet/>
+		<javadocDocletOptions/>
 	</properties>
 
 	<dependencies>
 		<dependency>
 			<groupId>com.azure.spring</groupId>
 			<artifactId>spring-cloud-azure-appconfiguration-config</artifactId>
-			<version>4.9.0-beta.1</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-appconfiguration-config;current} -->
+			<version>4.13.0</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-appconfiguration-config;current} -->
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -152,17 +152,17 @@
 								<echo>Deleting existing ${project.basedir}/javadocTemp and
                   ${project.basedir}/sourceTemp</echo>
 								<delete includeEmptyDirs="true" quiet="true">
-									<fileset dir="${project.basedir}/javadocTemp" />
-									<fileset dir="${project.basedir}/sourceTemp" />
+									<fileset dir="${project.basedir}/javadocTemp"/>
+									<fileset dir="${project.basedir}/sourceTemp"/>
 								</delete>
 								<echo>Copying ${project.basedir}/../README.md to
                   ${project.basedir}/javadocTemp/README.md
                 </echo>
-								<copy file="${project.basedir}/../README.md" tofile="${project.basedir}/javadocTemp/README.md" failonerror="false" />
+								<copy file="${project.basedir}/../README.md" tofile="${project.basedir}/javadocTemp/README.md" failonerror="false"/>
 								<echo>Copying ${project.basedir}/../README.md to
                   ${project.basedir}/sourceTemp/README.md
                 </echo>
-								<copy file="${project.basedir}/../README.md" tofile="${project.basedir}/sourceTemp/README.md" failonerror="false" />
+								<copy file="${project.basedir}/../README.md" tofile="${project.basedir}/sourceTemp/README.md" failonerror="false"/>
 							</target>
 						</configuration>
 						<goals>
