@@ -43,7 +43,7 @@
           <artifactId>spring-integration-core</artifactId>
         </exclusion>
       </exclusions>
-      <version>3.2.8</version> <!-- {x-version-update;org.springframework.cloud:spring-cloud-stream;external_dependency} -->
+      <version>4.1.0</version> <!-- {x-version-update;org.springframework.cloud:spring-cloud-stream;external_dependency} -->
     </dependency>
 
     <dependency>
