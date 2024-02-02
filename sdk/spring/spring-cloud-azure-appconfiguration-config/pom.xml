@@ -14,8 +14,8 @@
 	<description>Integration of Spring Cloud Config and Azure App Configuration Service</description>
 	<properties>
 		<codesnippet.skip>false</codesnippet.skip>
-		<javadocDoclet></javadocDoclet>
-		<javadocDocletOptions></javadocDocletOptions>
+		<javadocDoclet/>
+		<javadocDocletOptions/>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -36,7 +36,7 @@
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-actuator</artifactId>
-			<version>2.7.11</version> <!-- {x-version-update;org.springframework.boot:spring-boot-actuator;external_dependency} -->
+			<version>2.7.18</version> <!-- {x-version-update;org.springframework.boot:spring-boot-actuator;external_dependency} -->
 			<scope>compile</scope>
 		</dependency>
 		<!--Azure Java SDK -->
