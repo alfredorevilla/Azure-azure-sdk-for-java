@@ -30,12 +30,12 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>5.3.27</version> <!-- {x-version-update;org.springframework:spring-web;external_dependency} -->
+      <version>5.3.33</version> <!-- {x-version-update;org.springframework:spring-web;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <version>5.3.27</version> <!-- {x-version-update;org.springframework:spring-webmvc;external_dependency} -->
+      <version>5.3.33</version> <!-- {x-version-update;org.springframework:spring-webmvc;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>javax.servlet</groupId>
