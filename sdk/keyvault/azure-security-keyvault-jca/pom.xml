@@ -23,8 +23,8 @@
     <jacoco.min.branchcoverage>0</jacoco.min.branchcoverage>
     <jacoco.min.linecoverage>0.05</jacoco.min.linecoverage>
     <codesnippet.skip>false</codesnippet.skip>
-    <javadocDoclet></javadocDoclet>
-    <javadocDocletOptions></javadocDocletOptions>
+    <javadocDoclet/>
+    <javadocDocletOptions/>
     <createSourcesJar>true</createSourcesJar>
   </properties>
 
@@ -46,7 +46,7 @@
     <dependency>
       <groupId>com.fasterxml.jackson.core</groupId>
       <artifactId>jackson-databind</artifactId>
-      <version>2.13.5</version> <!-- {x-version-update;com.fasterxml.jackson.core:jackson-databind;external_dependency} -->
+      <version>2.15.0</version> <!-- {x-version-update;com.fasterxml.jackson.core:jackson-databind;external_dependency} -->
       <optional>true</optional>
     </dependency>
     <!-- SLF4j -->
