@@ -95,7 +95,7 @@
     <dependency>
       <groupId>org.springframework.cloud</groupId>
       <artifactId>spring-cloud-starter-stream-kafka</artifactId>
-      <version>3.2.8</version> <!-- {x-version-update;org.springframework.cloud:spring-cloud-starter-stream-kafka;external_dependency} -->
+      <version>4.2.1</version> <!-- {x-version-update;org.springframework.cloud:spring-cloud-starter-stream-kafka;external_dependency} -->
       <optional>true</optional>
     </dependency>
     <!-- Spring Data -->
@@ -235,7 +235,7 @@
     <dependency>
       <groupId>org.springframework.security</groupId>
       <artifactId>spring-security-oauth2-client</artifactId>
-      <version>5.7.8</version> <!-- {x-version-update;org.springframework.security:spring-security-oauth2-client;external_dependency} -->
+      <version>6.3.8</version> <!-- {x-version-update;org.springframework.security:spring-security-oauth2-client;external_dependency} -->
       <optional>true</optional>
     </dependency>
     <dependency>
