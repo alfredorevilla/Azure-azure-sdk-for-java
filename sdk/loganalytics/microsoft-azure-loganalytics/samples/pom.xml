@@ -29,7 +29,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <legal><![CDATA[[INFO] Any downloads listed may be third party software.  Microsoft grants you no rights for third party software.]]></legal>
-        <runtime.version>1.6.3</runtime.version>
+        <runtime.version>1.7.14</runtime.version>
     </properties>
     <developers>
         <developer>
