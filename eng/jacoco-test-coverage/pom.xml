@@ -465,7 +465,7 @@
     <dependency>
       <groupId>com.azure.spring</groupId>
       <artifactId>spring-cloud-azure-core</artifactId>
-      <version>4.9.0-beta.1</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-core;current} -->
+      <version>5.14.0</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-core;current} -->
     </dependency>
     <dependency>
       <groupId>com.azure.spring</groupId>
@@ -520,7 +520,7 @@
     <dependency>
       <groupId>com.azure.spring</groupId>
       <artifactId>spring-cloud-azure-stream-binder-servicebus-core</artifactId>
-      <version>4.9.0-beta.1</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-stream-binder-servicebus-core;current} -->
+      <version>5.14.0</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-stream-binder-servicebus-core;current} -->
     </dependency>
     <dependency>
       <groupId>com.azure.spring</groupId>
@@ -560,12 +560,12 @@
     <dependency>
       <groupId>com.azure.spring</groupId>
       <artifactId>spring-cloud-azure-appconfiguration-config</artifactId>
-      <version>4.9.0-beta.1</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-appconfiguration-config;current} -->
+      <version>5.14.0</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-appconfiguration-config;current} -->
     </dependency>
     <dependency>
       <groupId>com.azure.spring</groupId>
       <artifactId>spring-cloud-azure-appconfiguration-config-web</artifactId>
-      <version>4.9.0-beta.1</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-appconfiguration-config-web;current} -->
+      <version>5.14.0</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-appconfiguration-config-web;current} -->
     </dependency>
     <dependency>
       <groupId>com.azure.spring</groupId>
