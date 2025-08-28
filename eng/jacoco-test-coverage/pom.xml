@@ -148,7 +148,7 @@
     <dependency>
       <groupId>com.azure</groupId>
       <artifactId>azure-core-http-netty</artifactId>
-      <version>1.14.0-beta.1</version> <!-- {x-version-update;com.azure:azure-core-http-netty;current} -->
+      <version>1.14.0</version> <!-- {x-version-update;com.azure:azure-core-http-netty;current} -->
     </dependency>
     <dependency>
       <groupId>com.azure</groupId>
@@ -560,7 +560,7 @@
     <dependency>
       <groupId>com.azure.spring</groupId>
       <artifactId>spring-cloud-azure-appconfiguration-config</artifactId>
-      <version>4.9.0-beta.1</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-appconfiguration-config;current} -->
+      <version>5.5.0</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-appconfiguration-config;current} -->
     </dependency>
     <dependency>
       <groupId>com.azure.spring</groupId>
@@ -570,7 +570,7 @@
     <dependency>
       <groupId>com.azure.spring</groupId>
       <artifactId>spring-cloud-azure-feature-management</artifactId>
-      <version>4.9.0-beta.1</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-feature-management;current} -->
+      <version>4.11.0</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-feature-management;current} -->
     </dependency>
     <dependency>
       <groupId>com.azure.spring</groupId>
